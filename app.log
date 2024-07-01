@@ -1,0 +1,14 @@
+2023-11-01 00:09:07,036 - INFO - Executing the prehook:
+2023-11-01 00:09:07,076 - INFO - Prehook SQL folder was successfully executed!
+2023-11-01 00:11:14,665 - INFO - Data cleaning and optimization was fully completed.
+2023-11-01 00:11:14,685 - INFO - Staging tables were created and indexed!
+2023-11-01 00:11:14,870 - INFO - Executing the Hook:
+2023-11-01 00:11:14,930 - INFO - ETL Checkpoint was created!
+2023-11-01 00:11:15,247 - INFO - ETL last updated date was returned.
+2023-11-01 00:17:10,980 - INFO - Sentiment Analysis was applied!
+2023-11-01 00:17:11,063 - INFO - Successfully inserted new data into the staging tables!
+2023-11-01 00:17:20,160 - INFO - Hook SQL Folder was successfully executed!
+2023-11-01 00:17:20,160 - INFO - Data was successfully inserted into Relational database(PostgreSQL)
+2023-11-01 00:17:20,160 - INFO - Updated ETL last_update!
+2023-11-01 00:17:20,160 - INFO - Executing the posthook:
+2023-11-01 00:17:20,216 - INFO - Successfully truncated staging tables
