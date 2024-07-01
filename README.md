@@ -1,6 +1,3 @@
-
-<img  src="./readme/title1.svg"/>
-
 <div>
 
 > Hello world! This is the project’s summary that describes the project, plain and simple, limited to the space available.
