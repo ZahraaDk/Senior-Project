@@ -38,23 +38,23 @@
 
   
 1. As a Data Engineer: <br>
-	- I want to automatically extract Airbnb data from reputable sources so that our dataset is always up-to-date. <br>
-	- I want to integrate different data sources seamlessly. <br>
+	- We want to automatically extract Airbnb data from reputable sources so that our dataset is always up-to-date. <br>
+	- We want to integrate different data sources seamlessly. <br>
 	- Ensure fault tolerance in our data pipelines, so that potential failures don't interrupt our analyses. <br>
 2. As an Analyst: <br>
-	- I want to query the database. <br>
-	- I want to view the sentiment analysis results to understand guest sentiment around Airbnb experience. <br>
-	- I want to visualize the data using PowerBI. <br>
+	- We want to query the database. <br>
+	- We want to view the sentiment analysis results to understand guest sentiment around Airbnb experience. <br>
+	- We want to visualize the data using PowerBI. <br>
 3. As an Airbnb Host: <br>
-	- I want to access market insights so that I can optimize my property listings and pricing strategies. <br>
-	- I want to review guest sentiment analysis results so that I can improve the overall guest experience in my listings. <br>
+	- We want to access market insights so that we can optimize my property listings and pricing strategies. <br>
+	- We want to review guest sentiment analysis results so that We can improve the overall guest experience in my listings. <br>
 4. As a Traveler/Guest: <br>
-	- I want to use this data to make decisions when selecting accommodations. <br>
-	- I want to understand pricing trends so that I can make budget-conscious choices. <br>
+	- We want to use this data to make decisions when selecting accommodations. <br>
+	- We want to understand pricing trends so that We can make budget-conscious choices. <br>
 5. As a Business Owner: <br>
-	- I want to conduct competitive analyses using this data so that I can stay competitive in the market. <br>
-	- I want to understand guest review sentiments. <br>
-	- I want to use market insights for tailored services and marketing efforts so that my business aligns with customer expectations and attracts more clients. <br>
+	- We want to conduct competitive analyses using this data so that we can stay competitive in the market. <br>
+	- We want to understand guest review sentiments. <br>
+	- We want to use market insights for tailored services and marketing efforts so that my business aligns with customer expectations and attracts more clients. <br>
 
 
 <br><br>
@@ -62,7 +62,7 @@
 <!-- Prototyping -->
 <img  src="./readme/title3.svg"  id="prototyping"/>
 
-> I designed my project to perform ETL processes, integrate data, and include it in a PowerBI Sample Dashboard.
+> We designed my project to perform ETL processes, integrate data, and include it in a PowerBI Sample Dashboard.
   
 
 ### Data Flow Diagram
