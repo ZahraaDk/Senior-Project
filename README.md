@@ -66,17 +66,6 @@
 <img  src="./readme/title3.svg"  id="prototyping"/>
 
 > I designed my project to perform ETL processes, integrate data, and include it in a PowerBI Sample Dashboard.
-
-
-### Logger File
-
-  
-
-
-
- <img src = "./screenshots/logger_file.png" />
-The first ETL run takes between 12 to 15 minutes, depending on the internet speed. Subsequent ETL runs take about 8 to 10 minutes.
-  
   
 
 ### Data Flow Diagram
