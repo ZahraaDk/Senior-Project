@@ -1,6 +1,7 @@
 <div>
 
-> Hello world! This is the project’s summary that describes the project, plain and simple, limited to the space available.
+> Hello! This is our project’s summary that describes the project, plain and simple, limited to the space available.
+> The Project was done by two enthusiastic Data Science students; Zahraa Dokmak and Sara Dokmak as their Final Year Project.
 **[PROJECT PHILOSOPHY](#project-philosophy) • [PROTOTYPING](#prototyping) • [TECH STACKS](#stacks) • [IMPLEMENTATION](#demo) • [HOW TO RUN?](#run)**
 
 </div> 
