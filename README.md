@@ -2,7 +2,7 @@
 
 > Hello! This is our project’s summary that describes the project, plain and simple, limited to the space available.
 > The Project was done by two enthusiastic Data Science students; Zahraa Dokmak and Sara Dokmak as their Final Year Project.
-**[PROJECT PHILOSOPHY](#project-philosophy) • [PROTOTYPING](#prototyping) • [TECH STACKS](#stacks) • [IMPLEMENTATION](#demo) • [HOW TO RUN?](#run)**
+**[PROJECT PHILOSOPHY](#project-philosophy) • [PROTOTYPING](#prototyping) • [TECH STACKS](#stacks) • [IMPLEMENTATION](#demo) **
 
 </div> 
   
@@ -63,7 +63,7 @@
 <!-- Prototyping -->
 <img  src="./readme/title3.svg"  id="prototyping"/>
 
-> We designed my project to perform ETL processes, integrate data, and include it in a PowerBI Sample Dashboard.
+> We designed our project to perform ETL processes, integrate data, and include it in a PowerBI Sample Dashboard.
   
 
 ### Data Flow Diagram
