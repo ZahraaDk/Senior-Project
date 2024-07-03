@@ -182,53 +182,5 @@ A central dashboard where viewers can check: <br>
   
 <br><br>
 
-<!-- How to run -->
-
-<a  name="run"  ></a>
-<img  src="./readme/title6.svg" id="run"/>
-  
-
-> To set up **Airbnb Analysis** follow these steps:
-
-### Prerequisites
-
-
-**Hardware & Software**:
-
--   A computer/server with sufficient RAM and processing power.
--   Operating system: Linux (preferred for production) or Windows.
--   Required software: Python (3.x), PostgreSQL, Git (for version control), and any other specific software packages.
-  
-  
-
-**Dependencies**:
-
--   Install the necessary Python libraries: `pandas`, `psycopg2-binary`, `nltk`, `vaderSentiment`, `datetime`
--   Install database connectors/drivers for PostgreSQL.
-  
-
-**Setting Up the Environment**:
-
-**Clone the Repository**:
-
-
-```sh
-
-git clone https://github.com/ZahraaDk/Airbnb-Full-Stack-Data-Project.git
-
-```
-
-  
-**Set Up the Database**:
-
--   Start the PostgreSQL server.
--   Create a new database and user with the appropriate permissions that are mentioned in the database_handler file.
--   Run any initialization scripts to set up tables or initial.
-
-### **Running the Backend**:
-
-**Start the Data Ingestion & ETL Process**:
-`python main_handler.py`
-
 
 As for the dashboard access: Please use [this link](https://app.powerbi.com/view?r=eyJrIjoiMWNhN2U3ODktZDJjZi00NDc1LThmMjktNzMyZDZmYTBmMTY5IiwidCI6IjJhZDk2OTM0LTQzZTUtNDFjMi05NzYxLWYzMzVmZTIxNGNjMyIsImMiOjl9) to access the Power BI report.
